@@ -1,0 +1,1 @@
+# yhsd-fortune-teller
