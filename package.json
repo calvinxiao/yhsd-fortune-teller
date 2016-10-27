@@ -1,0 +1,31 @@
+{
+  "name": "yhsd-fortune-teller",
+  "version": "1.0.0",
+  "description": "test c.163.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/calvinxiao/yhsd-fortune-teller.git"
+  },
+  "keywords": [
+    "yhsd",
+    "youhaosuda",
+    "fortune",
+    "teller"
+  ],
+  "author": "Calvinxiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinxiao/yhsd-fortune-teller/issues"
+  },
+  "homepage": "https://github.com/calvinxiao/yhsd-fortune-teller#readme",
+  "dependencies": {
+    "fortune-teller": "^0.1.2",
+    "koa": "^1.2.4",
+    "koa-json": "^1.1.3",
+    "koa-router": "^5.4.0"
+  }
+}
