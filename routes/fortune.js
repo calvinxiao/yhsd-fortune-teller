@@ -24,7 +24,7 @@ router.get('/', function* () {
     });
     this.body = {
         md5: md5,
-        fortune: fortune.fortune()
+        fortune: whatHeSaid
     }
 });
 
